@@ -6,3 +6,4 @@ git
 
 分支
 223
+remote add 1
